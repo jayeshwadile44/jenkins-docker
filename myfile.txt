@@ -1,2 +1,1 @@
-this is myfile first commit at 8:59AM IST
-this is myfile and commit is 15:29PM IST
+Hi Team this is my first CICD project prepared on 31st December 2023 using Jenkins and GitHub at 16:16 PM IST
